@@ -10,8 +10,9 @@ Adding the Indtrocutions. This to show differente parts of the Git recpository a
 
 ## Purpose
 
-Added the purpose and showing the differences
+Added the purpose and showing the differences. This is the second one that I am adding
 
 ## Deployment
+Added to deployment section
 
 ## How to Contribute
